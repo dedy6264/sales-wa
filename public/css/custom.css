@@ -1,0 +1,57 @@
+.swal2-icon {
+	font-size: 1rem !important;
+}
+
+.custom-is-invalid~.select2-container .selection .select2-selection {
+	border-color: #F44336 !important;
+	color: #F44336 !important;
+}
+
+.custom-is-invalid~.invalid-feedback {
+	display:block;
+}
+
+.invalid-feedback {
+    display: block !important;
+}
+
+.manual-error {
+	display: block;
+	width: 100%;
+	margin-top: .5rem;
+	font-size: 80%;
+	color: #f44336;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.custom-padding tbody tr td {
+	padding: .625rem !important;
+}
+
+.custom-padding tbody tr td:last-child {
+	font-weight: 700 !important;
+}
+
+.img-preview-custom {
+    max-height: 6.6rem;
+    max-width: 6.6rem;
+}
+
+.form-control:disabled {
+	color: #777;
+}
+
+.form-control:disabled, .form-control[readonly] {
+	background-color: #fcfcfc;
+}
+
+.list-feed-item {
+    padding-bottom: 2.5rem;
+}
+
+.custom-margin-button {
+	margin-top: 1.7rem !important;
+}
